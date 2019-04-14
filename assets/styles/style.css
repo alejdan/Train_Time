@@ -1,0 +1,21 @@
+#title {
+    background-color: brown;
+    color: white;
+    text-align: center;
+}
+
+.header {
+    background-color: rgb(38, 38, 185);
+    color: white;
+    padding: 5px;
+}
+.card-body {
+    border: none;
+}
+#addTrain {
+    margin-top: 15px;
+}
+.btn-primary {
+    background-color: rgb(38, 38, 185);
+    border: none;
+}
